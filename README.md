@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![views](https://visitor-badge.glitch.me/badge?page_id=sulleimenov&left_color=green&right_color=red)
-![viewsss]
+![views](https://visitor-badge.glitch.me/badge?page_id=sulleimenov&left_color=blue&right_color=green)
 
 <!---
 Sulleimenov/Sulleimenov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
